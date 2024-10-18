@@ -1,0 +1,13 @@
+button{
+    color: brown;
+    font-family: "Arial Black";
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+}
+body{
+    background-color: lightgrey;
+    border: cadetblue solid;
+
+}
